@@ -11,9 +11,9 @@ I'm currently an intern at **Trustt (Novopay)**, working onsite as an SDE 1. Pre
 
 ### 🛠️ Skills & Technologies
 - **Languages:** C, Java, JavaScript, HTML, CSS
-- **Frameworks:** Spring Boot
+- **Frameworks:** Spring Boot, Hibernate
 - **Databases:** MySQL, PostgreSQL (currently working with)
-- **Tools:** Git, GitHub, Maven
+- **Tools:** Git, GitHub, Maven, JUnit
 
 ### 🚀 Projects
 - [**Personal Portfolio**](https://splendid-kringle-44a65b.netlify.app/) – A personal website built using HTML, CSS, and JavaScript.
